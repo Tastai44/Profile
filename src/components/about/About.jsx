@@ -22,7 +22,7 @@ function About() {
             And my personal characters are enthusiasm, motivation, ambition, self-learning, 
             and easy to keep in touch with others.
           </p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary' id="btn">Let's Talk</a>
         </div>
 
 

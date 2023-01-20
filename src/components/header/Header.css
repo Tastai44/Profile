@@ -55,6 +55,12 @@ header {
     font-size: 0.9rem;
 }
 
+#btn:hover {
+    background: rgb(55, 55, 55);
+    color: aliceblue;
+}
+
+
 @media screen and (max-width: 1024px){
     .container {
         height: 68vh;

@@ -52,6 +52,18 @@ input, textarea {
     resize: none;
     color: white;
 }
+input:hover {
+    border: 2px solid white;
+}
+textarea:hover {
+    border: 2px solid white;
+
+}
+
+#btn:hover {
+    background: rgb(55, 55, 55);
+    color: aliceblue;
+}
 
 @media screen and (max-width: 1024px) {
     .container.contact__container {
