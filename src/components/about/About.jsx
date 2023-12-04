@@ -17,9 +17,9 @@ function About() {
 
         <div className="about__content">
           <p>
-            Currently, I am a third year of Information Systems and Network Engineering 
-            at Chiang Mai University. I really have a passion on web development and programing. 
-            And my personal characters are enthusiasm, motivation, ambition, self-learning, 
+            Currently, I am a fourth year of Information Systems and Network Engineering
+            at Chiang Mai University. I really have a passion on web development and programing.
+            And my personal characters are enthusiasm, motivation, ambition, self-learning,
             and easy to keep in touch with others.
           </p>
           <a href="#contact" className='btn btn-primary' id="btn">Let's Talk</a>
