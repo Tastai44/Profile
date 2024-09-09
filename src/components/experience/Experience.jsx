@@ -22,7 +22,7 @@ function Experience() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Javascript</h4>
+                <h4>TypeScript</h4>
                 <small className='text-light'>Good</small>
               </div>
             </article>
@@ -71,6 +71,13 @@ function Experience() {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>MySQL</h4>
+                <small className='text-light'>Good</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>NoSQL</h4>
                 <small className='text-light'>Good</small>
               </div>
             </article>
